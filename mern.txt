@@ -1,0 +1,8 @@
+MERN
+node - environment to run code
+react - frontend
+express - backend
+m -mongodb
+
+R-->library-->use external or our library
+always a responsive site
